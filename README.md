@@ -1,4 +1,4 @@
-# CodeClauseInternship_WeatherApp ☁
+# WeatherApp ☁
 
 __Get the weather of any city you need whenever and wherever 🌩__
 
