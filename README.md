@@ -15,5 +15,5 @@ Things I learned from this project 👇
 I made use of openweather api to get the livetime weather of all the cities.
 
 
-Checkout the weather 👉 skysync[https://skysync.netlify.app/]
+Checkout the weather 👉 [skysync](https://skysync.netlify.app/)🌦
 
